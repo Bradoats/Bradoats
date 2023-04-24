@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bradoats
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m soon learning Java
+- 👀 I’m interested in front-end web development
+- 🌱 I’m soon learning PHP
 - 💞️ I’m looking to collaborate on group projects with my colleagues/co-workers
 - 📫 How to reach me ...
 
